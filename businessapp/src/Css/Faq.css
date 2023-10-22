@@ -1,0 +1,88 @@
+.PageHead
+{font-size:xx-large;
+text-align: center;
+}
+.box
+{
+    padding-left: 18%;
+    box-shadow: #3e0265;
+   
+}
+
+.TermsBlock p 
+{
+
+    line-height: 30px;
+    padding-left:13px;
+
+
+    width: 1200px;
+  font-size: medium;
+
+    padding:5px 8px;
+    margin-bottom:5px;
+    background-color:white;
+    border:1px solid #cd0e97;
+    cursor:pointer;
+    position:relative;
+    padding-right:25px;
+    border-radius: 10px;
+    color:black;
+
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+   
+}
+.TermsBlock h2
+{
+    line-height: 30px;
+   width: 1200px;
+  
+
+    padding:5px 8px;
+    margin-bottom:5px;
+    background-color:#d1099f;
+    border:1px solid #c40b90;
+    cursor:pointer;
+    position:relative;
+    padding-right:25px;
+    border-radius: 10px;
+    color:black;
+
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.2);
+}
+.TermsBlock h2:hover
+{
+    background-color:#F1F1F1;
+}
+.TermsBlock h2 span
+{
+    position:absolute;
+    right:18px;
+    top:19px;
+    border: 1px dotted #FFF;
+    width: 3px;
+    height: 3px;
+    background-color:#3e0265;
+    box-sizing: border-box;
+    transform: scale(5);
+   
+}    
+.TermsBlock h2:hover span
+{
+    border: 1px dotted #F1F1F1;
+}
+
+.TermsBlock h2.active span 
+{
+    border: 0px dotted white;
+    width: 3px;
+    height: 1px;
+    box-sizing: border-box;
+    top:20px;
+    background-color:#FFF;
+   
+}

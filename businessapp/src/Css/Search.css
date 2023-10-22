@@ -1,0 +1,41 @@
+.homesearch{
+margin-left: 400px;
+padding-top: 10px;
+padding-bottom: 10px;
+height: 80px;
+
+
+}
+.searchinput{
+    border-radius: 20px;
+    width:60%;
+    height: 100%;
+    
+  
+
+}
+
+.searchbar{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    height: fit-content;
+    width: 80%;
+    padding: 0 10Px 0 10px;
+    display: flex;
+    /*justify-content: space-between;*/
+  }
+  .searchbar input{
+    height: 45PX;
+    border: none;
+    width: 80%;
+    outline: none;
+    font-size: 16px;
+  }
+  .searchbar input::placeholder {
+    font-size: 16px;
+  }
+  .searchbar img{
+    width: 25px;
+  color:rgb(232, 44, 75);
+    cursor: pointer;
+  }

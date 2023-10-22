@@ -1,0 +1,47 @@
+
+.nav-ul li{
+  display: inline-block;
+  padding: 2px;
+  color: white;
+  text-decoration-color: white;
+}
+.nav-ul li a{
+ 
+  padding: 30px;
+  color: white;
+  text-decoration: none;
+ 
+}
+
+.nav-ul{
+  padding-left: 100px;
+  margin: 0;
+  color: white;
+ background-color: rgb(190, 8, 129);
+
+  font-size: large;
+ 
+}
+
+.nav-ul{
+  padding-left: 20px;
+  margin: 0;
+  color: white;
+  background-color: rgb(190, 8, 129);
+  font-size: large;
+ 
+}
+.nav-ul li a:hover{
+
+
+  background-color:rgb(107, 8, 95);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 20px;
+  color: aliceblue;
+  box-shadow: 4px 4px 0  rgb(196, 50, 219);
+  border-color:rgba(197, 113, 227, 0.932);
+
+
+
+}

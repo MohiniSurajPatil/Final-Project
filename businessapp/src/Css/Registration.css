@@ -1,0 +1,99 @@
+.register-item
+{text-align: center;
+    font-size: 200%;
+    font-family: 'Playfair Display', serif;
+    color: white;
+   
+}
+/*body
+{
+
+    /* background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%); */
+    /* background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%); */
+    /*background-attachment: fixed;
+      background-repeat: no-repeat;
+    
+        font-family: 'Vibur', cursive;
+    
+        font-family: 'Abel', sans-serif;
+    opacity: .95;
+      background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);  
+}*/
+.register-form
+{
+
+    width: 1302px;
+    min-height: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 2% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 2%;
+    /*background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);*/
+    background-color: rgb(157, 6, 89);
+}
+.rinput
+{
+    width: 740px;
+    height: 50px;
+    margin-top: 1%;
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Abel', sans-serif;
+    /*color: #5E6472;*/
+    color: purple;
+    background-color:pink;
+    outline: 0px solid purple;
+    border: 2px solid black;
+    border-radius: 0px 10px 10px 0px;
+    transition: 0.2s linear;
+    
+}
+.button-item
+{
+    /* width: 28%;
+    height: auto;
+    display: inline-block;
+    float: left;
+    border:solid #B8F2E6 ; 
+    margin-left: 25%;
+    animation: ani9 0.4s ease-in-out infinite alternate;
+    background: #B8F2E6;
+    border-radius: 5px;
+     box-shadow: 4px 4px 0 #B8F2E6; 
+    padding: 5px 10px; */
+    margin-left: 37%;
+    background-color: pink;
+padding: 10px 20px ;
+border-radius: 10px;
+margin-left: 550px;
+width: 20%;
+color:purple;
+box-shadow: 4px 4px 0 rgb(179, 7, 168);
+border-color:black;
+font-size:x-large;
+    
+}
+.image
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 100;
+    font-style:initial;
+}
+p{
+font-size: xx-large;
+font-family:  'Arial Narrow Bold', sans-serif;
+
+}
+.bregister{
+    padding: 40px;
+    border-radius: 20px;
+    border:20px solid rgb(158, 118, 151);
+    height: fit-content;
+   width: fit-content;
+    background-color: rgb(135, 5, 87);
+   color:black;
+   font-size: 20px;
+}
+

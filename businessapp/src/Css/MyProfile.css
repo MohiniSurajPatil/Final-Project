@@ -1,0 +1,16 @@
+.profilecard{
+    padding: 20px;
+    border-radius: 20px;
+    border:20px solid gray;
+    height: fit-content;
+   width: 80%;
+    background-color: rgb(215, 26, 136);
+   color:black;
+   font-size: 20px;
+
+}
+.profile{
+
+
+    padding-left: 20%;
+}

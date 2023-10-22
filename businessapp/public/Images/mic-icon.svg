@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="mic-icon" transform="translate(0.002 -0.5)">
+    <rect id="Rectangle_3069" data-name="Rectangle 3069" width="19" height="19" transform="translate(-0.002 0.5)" fill="#fff" opacity="0"/>
+    <g id="Icon_feather-mic" data-name="Icon feather-mic" transform="translate(5 3)" opacity="0.6">
+      <path id="Path_5211" data-name="Path 5211" d="M15.254,1.5A1.754,1.754,0,0,0,13.5,3.254V7.931a1.754,1.754,0,1,0,3.508,0V3.254A1.754,1.754,0,0,0,15.254,1.5Z" transform="translate(-11.162 -1.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_5212" data-name="Path 5212" d="M15.685,15v1.169a4.092,4.092,0,0,1-8.185,0V15" transform="translate(-7.5 -9.739)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_5213" data-name="Path 5213" d="M18,28.5v2.338" transform="translate(-13.908 -17.977)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_5214" data-name="Path 5214" d="M12,34.5h4.677" transform="translate(-10.246 -21.639)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
